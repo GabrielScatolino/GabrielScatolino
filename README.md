@@ -30,8 +30,4 @@ Alongside traditional development, I also build games and interactive prototypes
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=blueviolet&style=flat" />
-</p>
-
 <p align="center">Thanks for visiting</p>
